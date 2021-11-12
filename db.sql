@@ -2,4 +2,7 @@ Advanceed users names:
 John
 James
 Peter 
-Laura
+Paul
+Kelvin
+Jerry
+Dayo
